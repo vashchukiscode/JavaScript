@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+#main-container {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+.product-container {
+    text-align: center;
+}
+
+button {
+    padding: 12px 24px;
+}
+
+.cart-product-container {
+    display: flex;   
+}
